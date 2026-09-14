@@ -23,4 +23,4 @@ The project is intentionally small at this stage so the product direction can be
 
 ## Status
 
-Foundation created. The first feature will be documented here as the capstone takes shape.
+This repository currently contains the capstone foundation: project metadata, contribution guidance, and a passing test command. No product feature has been implemented yet; the first feature and its usage instructions will be documented here as the capstone takes shape.
