@@ -8,12 +8,16 @@ An evolving capstone project built with TypeScript and Node.js.
 - TypeScript
 - npm
 
-## Development
+## Getting started
 
-```text
+Use Node.js 22 LTS or newer.
+
+```bash
 npm install
 npm test
 ```
+
+The test command runs the Node.js test runner and should pass before changes are shared.
 
 The project is intentionally small at this stage so the product direction can be shaped with early feedback.
 
